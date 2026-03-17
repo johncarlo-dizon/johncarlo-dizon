@@ -22,28 +22,10 @@ I also build desktop apps and have dabbled in mobile. Still learning, always imp
 
 <br/>
 
-## 🟥 Backend
+## 🚀 Skills & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,django&theme=dark" />
-</div>
-
-## 🟦 Frontend
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark" />
-</div>
-
-## 🟪 Desktop & Mobile
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart&theme=dark" />
-</div>
-
-## 🟩 Database & Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,postman,githubactions&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,django,react,nextjs,js,ts,html,css,flutter,dart,postgres,mysql,supabase,docker,git,github,postman,githubactions&theme=dark&perline=11" />
 </div>
 
 <br/>
