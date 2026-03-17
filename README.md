@@ -43,7 +43,7 @@ I also build desktop apps and have dabbled in mobile. Still learning, always imp
 ## 🟩 Database & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,postman,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,postman,githubactions&theme=dark&perline=4" />
 </div>
 
 <br/>
