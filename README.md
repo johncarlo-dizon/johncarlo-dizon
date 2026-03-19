@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=180&section=header&text=John%20Carlo%20Dizon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Desktop%20Dev%20%7C%20Philippines&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=John%20Carlo%20Dizon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Desktop%20Dev%20%7C%20Philippines&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
@@ -35,5 +35,5 @@ I also build desktop apps and have dabbled in mobile. Still learning, always imp
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
 </div>
