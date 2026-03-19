@@ -1,7 +1,7 @@
 <div align="center">
 
 # John Carlo Dizon
-### Backend Developer | Desktop Dev | Philippines
+### Software Developer | Philippines
 
 </div>
 
@@ -15,10 +15,10 @@
 </div>
 
 <br/>
-```
-More comfortable on the backend, but I can handle the frontend when needed.
-I also build desktop apps and have dabbled in mobile. Still learning, always improving.
-```
+
+Adaptable across the stack — backend, frontend, desktop, and mobile.
+Focused on building things that work. Always learning.
+
 
 <br/>
 
