@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=John%20Carlo%20Dizon&fontSize=42&fontColor=39d353&animation=twinkling&fontAlignY=45&desc=Backend%20Developer%20%7C%20Desktop%20Dev%20%7C%20Philippines&descAlignY=62&descSize=16&descColor=6c47ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=John%20Carlo%20Dizon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Backend%20Developer%20%7C%20Desktop%20Dev%20%7C%20Philippines&descAlignY=68&descSize=16" width="100%"/>
 </div>
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-carlo-dizon-b18064395)&nbsp;
@@ -23,5 +23,5 @@ I also build desktop apps and have dabbled in mobile. Still learning, always imp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johncarlo-dizon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c47ff&text_color=c9d1d9)
 </div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
