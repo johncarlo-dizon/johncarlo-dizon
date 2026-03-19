@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,0-141414&height=180&section=header&text=John%20Carlo%20Dizon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20%7C%20Desktop%20%26%20Mobile%20Dev%20%7C%20Philippines&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=John%20Carlo%20Dizon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20%7C%20Desktop%20%26%20Mobile%20Dev%20%7C%20Philippines&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -37,5 +37,5 @@ I also build desktop and mobile apps. Still learning, always improving.
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,0-141414&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 </div>
