@@ -8,7 +8,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-carlo-dizon-b18064395)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6c47ff?style=for-the-badge&logo=vercel&logoColor=white)](https://jc-portfolio-orpin.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-6c47ff?style=for-the-badge&logo=vercel&logoColor=white)](https://johncarlodizon-silk.vercel.app/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johncarlovdizon@gmail.com)
 
 </div>
