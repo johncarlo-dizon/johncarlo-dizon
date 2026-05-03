@@ -25,9 +25,3 @@ Focused on building things that work. Always learning.
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,django,react,nextjs,js,ts,html,css,flutter,dart,postgres,mysql,supabase,docker,git,github,postman,githubactions&theme=dark&perline=11" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=johncarlo-dizon&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
