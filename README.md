@@ -29,6 +29,5 @@ Focused on building things that work. Always learning.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johncarlo-dizon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c47ff&icon_color=6c47ff&text_color=c9d1d9" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncarlo-dizon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c47ff&text_color=c9d1d9" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=johncarlo-dizon&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
