@@ -21,5 +21,5 @@ Focused on building things that work. Always learning.
 ## 🚀 Skills & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,django,react,nextjs,js,ts,html,css,flutter,dart,postgres,mysql,supabase,docker,git,github,postman,githubactions&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,python,ssh,spring,django,react,nextjs,js,ts,html,css,flutter,dart,postgres,mysql,supabase,docker,git,github,postman,githubactions&theme=dark&perline=11" />
 </div>
